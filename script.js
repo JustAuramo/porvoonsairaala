@@ -44,7 +44,7 @@ tailwind.config = {
 
 // DISCORD WEBHOOK OSOITE:
         // Aseta tähän oma Discord Webhook URL-osoitteesi
-        const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1511824961344639079/c9xEBsUnQaJvbyzLPNsCaGk5-SZfITGxx9S0nqcaFfHmscZ90rJm60fA77MRWazax9Gf';
+        const DISCORD_WEBHOOK_URL "";
 
         // Lucide Icons init
         lucide.createIcons();
